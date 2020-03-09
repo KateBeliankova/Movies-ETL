@@ -1,5 +1,5 @@
 ## Movies-ETL
-Created function is using three file names as a String for wikipedia, kaggle, and ratings data as input arguments. The following assumptions have been made in the function that can be caught by using try-except blocks:
+Created function is using three file names as a String for wikipedia, kaggle, and ratings data as input arguments. The following assumptions have been made in the function that can be caught by using try-except blocks.
 Block IOError:
 1. provided file name/ path for wikipedia data file in input argument is correct
 2. provided file name/ path for kaggle data file in input argument is correct
