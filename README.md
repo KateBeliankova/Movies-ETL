@@ -7,8 +7,11 @@ Block IOError:
 3. provided file name/ path for wikipedia data file in input argument is correct
 
 Block ValueError:
+
 4. pgAdmin4 database table with the provided name does not already exist 
 
 Other assumptions not covered in the function:
+
 5. pgAdmin4 database connection exists 
+
 6. provided IP address of the pgAdmin4 server is correct 
